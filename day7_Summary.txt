@@ -1,0 +1,6 @@
+Week 1 Summary:
+- Learned Python basics and step-up concepts
+- Practiced lists, dicts, functions, file handling, exceptions,modules
+- Created workflows in Zapier, Make, and n8n
+- Maintained LeetCode streak
+- Consistent learning throughout the week
